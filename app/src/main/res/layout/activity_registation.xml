@@ -62,12 +62,13 @@
 
         <EditText
             android:id="@+id/edPassword"
+            android:inputType="textPassword"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
             android:hint="Name"
-            android:inputType="textPersonName" />
+             />
     </LinearLayout>
 
     <LinearLayout
